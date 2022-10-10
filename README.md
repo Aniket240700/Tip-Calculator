@@ -5,3 +5,9 @@ Do it all or just calculate the tip amount , with ease in one place no hassel go
 
 Lessons Learned
 It was a wonderfull learning all the Html , css and JavaScript basics yet more to learn , but for me implementing things are more fun than learning So took a shot at making a tip calculator using the things I learned till now.
+
+# Tech Stack :- 
+HTML,Cascading Style Sheet(CSS),JavaScript(JS)
+
+# Role:-
+ Developer
